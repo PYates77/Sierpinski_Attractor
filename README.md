@@ -9,3 +9,9 @@
 
 
 What do you think will appear? Try not to get spoiled by the title
+
+I got the idea from this youtube video: https://youtu.be/kbKtFN71Lfs
+
+## How To Run
+
+Use [Processing](https://processing.org/download/)
